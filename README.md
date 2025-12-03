@@ -42,10 +42,10 @@
 
 ---
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soren-code&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=soren-code&theme=tokyonight" width="48%" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soren-code&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soren-code&theme=tokyonight)
 
 ---
 
