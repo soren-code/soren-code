@@ -43,9 +43,15 @@
 ---
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soren-code&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soren-code&show_icons=true&theme=radical&hide_border=true)](https://github.com/soren-code)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soren-code&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=soren-code&theme=radical&hide_border=true)](https://github.com/soren-code)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soren-code&layout=compact&theme=radical&hide_border=true)](https://github.com/soren-code)
+
+</div>
 
 ---
 
