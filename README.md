@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1P-tSQ6XHN98U9zaWAZQz7-PW0rnkQWQ9/view?usp=drivesdk" width="150" />
+  <img src="https://github.com/soren-code/soren-code/blob/master/profile_pic_github.jpeg?raw=true" width="150" />
 </p>
 
 <h1 align="center">SOREN-CODE</h1>
