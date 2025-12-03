@@ -55,7 +55,7 @@
 
 <p>
   <a href="https://github.com/soren-code">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/psoren4939">LinkedIn</a> •
   <a href="mmsoren8061@gmail.com">Email</a>
 </p>
 
