@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soren-code&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soren-code&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soren-code&theme=tokyonight" width="48%" />
 </p>
 
