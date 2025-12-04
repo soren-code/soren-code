@@ -37,9 +37,9 @@
 | Project | Description | Status |
 |--------|-------------|-------|
 | **Police Duty Bot** | Real-time deployment roster bot with GPS checks | 🟢 Live |
-| **PDF Editor Suite** | CLI + Web tool for editing, merging, and printing PDFs | 🟡 In progress |
+| **PDF Editor Suite** | CLI + Web tool for editing, merging, and printing PDFs | ✅ Ready |
 | **Parking & Traffic Bot** | Vehicle categorization + maps integration | 🟢 Live |
-| **SECRET-M CIPHER** | Military-Grade Encrypted Memo Manager | Ready :gree|
+| **SECRET-M CIPHER** | Military-Grade Encrypted Memo Manager | 🟢 Live |
 | **secureshare-pro** | A Complete Cross-Platform Encryption & Key Management Tool | 🟢 Live  |
 | **Neon-Wave-Typer** | A comprehensive beginner-friendly typing practice game tool | 🟢 Live |
 
