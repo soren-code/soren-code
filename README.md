@@ -40,7 +40,8 @@
 | **PDF Editor Suite** | CLI + Web tool for editing, merging, and printing PDFs | 🟡 In progress |
 | **Parking & Traffic Bot** | Vehicle categorization + maps integration | 🟡 In progress |
 | **SECRET-M CIPHER** | Military-Grade Encrypted Memo Manager | Ready |
-| **secureshare-pro** | A Complete Cross-Platform Encryption & Key Management Tool | Ready |
+| **secureshare-pro** | A Complete Cross-Platform Encryption & Key Management Tool | Ready ✔️ |
+| **Neon-Wave-Typer** | A comprehensive beginner-friendly typing practice game tool | 🟢 Live |
 
 ---
 ### 📊 GitHub Stats
